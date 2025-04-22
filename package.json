@@ -47,8 +47,6 @@
     "typescript": "^5.8.3"
   },
   "keywords": [
-    "find-up",
-    "find",
-    "up"
+    "find-up"
   ]
 }
