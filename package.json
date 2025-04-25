@@ -1,6 +1,6 @@
 {
   "name": "@mnrendra/find-up",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight utility to find a file or directory by searching upward from a specific directory.",
   "private": false,
   "main": "dist/index.js",
